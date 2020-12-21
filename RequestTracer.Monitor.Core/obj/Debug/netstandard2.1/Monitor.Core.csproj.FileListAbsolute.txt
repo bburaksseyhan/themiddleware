@@ -1,0 +1,9 @@
+/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/obj/Debug/netstandard2.1/Monitor.Core.AssemblyInfoInputs.cache
+/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/obj/Debug/netstandard2.1/Monitor.Core.AssemblyInfo.cs
+/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/obj/Debug/netstandard2.1/Monitor.Core.csproj.CoreCompileInputs.cache
+/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/bin/Debug/netstandard2.1/Monitor.Core.deps.json
+/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/bin/Debug/netstandard2.1/Monitor.Core.dll
+/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/bin/Debug/netstandard2.1/Monitor.Core.pdb
+/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/obj/Debug/netstandard2.1/Monitor.Core.dll
+/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/obj/Debug/netstandard2.1/Monitor.Core.pdb
+/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/obj/Debug/netstandard2.1/Monitor.Core.csprojAssemblyReference.cache

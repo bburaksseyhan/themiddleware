@@ -1,0 +1,6 @@
+/Users/burak.seyhan/Projects/RequestTracer/MonitorApi.Demo/obj/Debug/net5.0/MonitorApi.Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burak.seyhan/Projects/RequestTracer/MonitorApi.Demo/obj/Debug/net5.0/MonitorApi.Demo.AssemblyInfoInputs.cache
+/Users/burak.seyhan/Projects/RequestTracer/MonitorApi.Demo/obj/Debug/net5.0/MonitorApi.Demo.AssemblyInfo.cs
+/Users/burak.seyhan/Projects/RequestTracer/MonitorApi.Demo/obj/Debug/net5.0/MonitorApi.Demo.csproj.CoreCompileInputs.cache
+/Users/burak.seyhan/Projects/RequestTracer/MonitorApi.Demo/obj/Debug/net5.0/MonitorApi.Demo.MvcApplicationPartsAssemblyInfo.cs
+/Users/burak.seyhan/Projects/RequestTracer/MonitorApi.Demo/obj/Debug/net5.0/MonitorApi.Demo.MvcApplicationPartsAssemblyInfo.cache

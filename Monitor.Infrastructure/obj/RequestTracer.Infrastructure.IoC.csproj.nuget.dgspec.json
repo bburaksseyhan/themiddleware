@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/RequestTracer.Infrastructure.IoC.csproj": {}
+  },
+  "projects": {
+    "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/RequestTracer.Infrastructure.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/RequestTracer.Infrastructure.IoC.csproj",
+        "projectName": "RequestTracer.Infrastructure.IoC",
+        "projectPath": "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/RequestTracer.Infrastructure.IoC.csproj",
+        "packagesPath": "/Users/burak.seyhan/.nuget/packages/",
+        "outputPath": "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/burak.seyhan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/RequestTracer.Core.csproj": {
+                "projectPath": "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/RequestTracer.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/RequestTracer.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/RequestTracer.Core.csproj",
+        "projectName": "RequestTracer.Core",
+        "projectPath": "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/RequestTracer.Core.csproj",
+        "packagesPath": "/Users/burak.seyhan/.nuget/packages/",
+        "outputPath": "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/burak.seyhan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "MassTransit.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

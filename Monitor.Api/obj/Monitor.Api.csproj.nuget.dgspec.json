@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Api/Monitor.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Api/Monitor.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Api/Monitor.Api.csproj",
+        "projectName": "Monitor.Api",
+        "projectPath": "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Api/Monitor.Api.csproj",
+        "packagesPath": "/Users/burak.seyhan/.nuget/packages/",
+        "outputPath": "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/burak.seyhan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/Monitor.Infrastructure.IoC.csproj": {
+                "projectPath": "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/Monitor.Infrastructure.IoC.csproj"
+              },
+              "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/Monitor.Core.csproj": {
+                "projectPath": "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/Monitor.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/Monitor.Infrastructure.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/Monitor.Infrastructure.IoC.csproj",
+        "projectName": "Monitor.Infrastructure.IoC",
+        "projectPath": "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/Monitor.Infrastructure.IoC.csproj",
+        "packagesPath": "/Users/burak.seyhan/.nuget/packages/",
+        "outputPath": "/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/burak.seyhan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/Monitor.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/Monitor.Core.csproj",
+        "projectName": "Monitor.Core",
+        "projectPath": "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/Monitor.Core.csproj",
+        "packagesPath": "/Users/burak.seyhan/.nuget/packages/",
+        "outputPath": "/Users/burak.seyhan/Projects/RequestTracer/RequestTracer.Monitor.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/burak.seyhan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

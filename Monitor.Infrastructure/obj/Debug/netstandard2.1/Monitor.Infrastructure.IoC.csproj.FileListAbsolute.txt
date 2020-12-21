@@ -1,0 +1,12 @@
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/bin/Debug/netstandard2.1/Monitor.Infrastructure.IoC.deps.json
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/bin/Debug/netstandard2.1/Monitor.Infrastructure.IoC.dll
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/bin/Debug/netstandard2.1/Monitor.Infrastructure.IoC.pdb
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/bin/Debug/netstandard2.1/Monitor.Core.dll
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/bin/Debug/netstandard2.1/Monitor.Core.pdb
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/obj/Debug/netstandard2.1/Monitor.Infrastructure.IoC.csprojAssemblyReference.cache
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/obj/Debug/netstandard2.1/Monitor.Infrastructure.IoC.AssemblyInfoInputs.cache
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/obj/Debug/netstandard2.1/Monitor.Infrastructure.IoC.AssemblyInfo.cs
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/obj/Debug/netstandard2.1/Monitor.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/obj/Debug/netstandard2.1/Monitor.Infrastructure.IoC.csproj.CopyComplete
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/obj/Debug/netstandard2.1/Monitor.Infrastructure.IoC.dll
+/Users/burak.seyhan/Projects/RequestTracer/Monitor.Infrastructure/obj/Debug/netstandard2.1/Monitor.Infrastructure.IoC.pdb
